@@ -4,4 +4,4 @@ hello arkhi! hello git!
 hello arkhi! hello git!
 hello arkhi! hello git!
 hello arkhi! hello git!
-hello arkhi! hello git!
+hello arkhi! hello git! hot-fix test
